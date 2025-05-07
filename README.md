@@ -1,10 +1,10 @@
 ## Hello there!
 
-Hi I’m Dartus95 and working as Network and Security engineer. 
+Hi I’m Dartus95 and I'm working as Network and Security Engineer. 
 
-- My repositories are just for fun and to learn some technologies in my free time and to use in my line of work.
-- If anything would catch your eye, you can contact me.
-- Favourite quotes:
+- My repositories are just for fun and to learn some technologies and concepts in my free time and to use in my line of work.
+- If anything should catch your eye, do not hesitate to can contact me.
+- My favourite quotes:
 > "The rocket worked perfectly, but it fell on the wrong planet." - Wernher von Braun on first use of V2 rocket
 
 > “Once you have tasted flight, you will forever walk the earth with your eyes turned skyward.” - Leonadro da Vinci
